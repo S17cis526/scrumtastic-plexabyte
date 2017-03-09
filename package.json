@@ -1,0 +1,29 @@
+{
+  "name": "scrumtastic",
+  "version": "1.0.0",
+  "description": "A web app for SCRUM software development",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S17cis526/scrumtastic-plexabyte.git"
+  },
+  "keywords": [
+    "scrum",
+    "software",
+    "development",
+    "task",
+    "board"
+  ],
+  "author": "Zach Marcolesco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S17cis526/scrumtastic-plexabyte/issues"
+  },
+  "homepage": "https://github.com/S17cis526/scrumtastic-plexabyte#readme",
+  "dependencies": {
+    "sqlite3": "3.1.8"
+  }
+}
